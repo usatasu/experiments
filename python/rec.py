@@ -16,7 +16,7 @@ tags = ard.tag_conf.tags()
 
 # tags = ard.tag_conf.tags()
 
-ard_prog_path = "./arduino"
+ard_prog_path = "../arduino"
 recorder._path_to_arduino = "arduino"
 
 print("settings for recorder")
